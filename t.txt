@@ -1,2 +1,12 @@
 This is changed content.
-Changed by Dipak.
+
+
+
+git log 
+git commit 
+git pull
+git push 
+
+git status 
+git config -l
+
